@@ -47,24 +47,24 @@ div {
     background-color: #ff0000;
     text-align: right;
     margin: 0 0 0 50px;
-    border-bottom: #ffffff 3px solid ; 
-    border-left: #ffffff 10px solid ;
+    border: solid #ffffff; 
+    border-width: 0px 0px 3px 10px;
 }
 
 .blue {
     background-color: #0000ff;
     text-align: left;
     margin: 0 50px 0 0;
-    border-bottom: #ffffff 3px solid;
-    border-right: #ffffff 10px solid;
+    border: solid #ffffff; 
+    border-width: 0px 10px 3px 0px;
 }
 
 .yellow {
     background-color: #ffff00;
     text-align: right;
     margin: 0 0 0 50px;
-    border-bottom: #ffffff 3px solid;
-    border-left: #ffffff 10px solid;
+    border: solid #ffffff; 
+    border-width: 0px 0px 3px 10px;
     color: #000000;
 }
 
@@ -77,8 +77,8 @@ div {
     text-align: left;
     text-align: left;
     margin: 0 50px 0 0;
-    border-bottom: #ffffff 3px solid ;
-    border-right: #ffffff 10px solid ;
+    border: solid #ffffff; 
+    border-width: 0px 10px 3px 0px;
 }
 
 span {
